@@ -1,0 +1,3 @@
+function int = Aint(A, t)
+  A = integral(A, 0, t)
+end
